@@ -1,0 +1,85 @@
+body {
+	font-family: 'Open Sans', 'Arial', sans-serif;
+	font-weight: lighter;
+}
+.lightpink {
+	color: rgba(212, 150, 167, 1);
+}
+.babypink {
+	color: rgba(241, 222, 222, 1);
+}
+.plum {
+	color: rgba(93, 87, 107, 1);
+}
+.superlightblue {
+	color: #6CD4FF;
+}
+.gray {
+	color: rgba(175, 191, 192, 1);
+}
+header p{
+	font-family: 'Homemade Apple', cursive;
+	text-align: center;
+	font-size: 32px;
+}
+h1 {
+	font-size: 64px;
+	color: #6CD4FF;	
+}
+ul {
+	 text-align: center;
+	list-style: none;
+	margin: 0;
+  	padding: 0;
+}
+li {
+	display: inline-block;
+	padding: 10px;
+}
+/* unvisited link */
+a:link {
+    color: green;
+}
+
+/* visited link */
+a:visited {
+    color: rgba(93, 87, 107, 1);
+}
+
+/* mouse over link */
+a:hover {
+    color: rgba(212, 150, 167, 1);
+}
+
+/* selected link */
+a:active {
+    color: rgba(108, 212, 255, 1);
+}
+.styled-button {
+	background-color:rgba(93, 87, 107, 1);
+	padding: 10px 5px;
+	color: white;
+	border: none;
+}
+	
+.styled-button:hover {
+	background-color: rgba(212, 150, 167, 1);
+}
+ 
+.styled-button:active {
+	background-color:rgba(108, 212, 255, 1);
+}
+.button {
+	background-color:rgba(93, 87, 107, 1);
+	padding: 10px 5px;
+	color: white;
+	border: none;
+}
+	
+.button:hover {
+	background-color: rgba(212, 150, 167, 1);
+}
+ 
+.button:active {
+	background-color:rgba(108, 212, 255, 1);
+}
